@@ -1,4 +1,4 @@
-./pyembroidery
+git+git://github.com/inkstitch/pyembroidery.git
 backports.functools_lru_cache
 wxPython
 networkx==2.2
